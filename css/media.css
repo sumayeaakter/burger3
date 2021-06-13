@@ -1,0 +1,285 @@
+@media (min-width: 1221px) and (max-width: 1440px){
+    .banner-content {
+        min-height: 75vh;
+        position: relative;
+    }
+    .reservation_section {
+        min-height: 150vh;
+        margin-bottom: -7%;
+    }
+    .reservation h5 {
+        font-size: 25px;
+        margin-top: 10%;
+    }
+    .reservation h1 {
+        font-size: 50px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 25px;
+    }
+    .upcoming-text h1 {
+        font-size:55px ;
+        padding-top: 21px;
+
+    }
+
+}
+@media (min-width: 1025px) and (max-width: 1220px) {
+    .reservation_section {
+        min-height: 121vh;
+        margin-bottom: -7%;
+    }
+    .reservation h5 {
+        margin-top: 7%; font-size: 23px;}
+        .burger img {
+            width: 96%;
+        }
+        .banner-content h5{
+            font-size: 16px;
+        }
+        .banner-content h1{
+            font-size:80px ;
+        }
+        .banner-content h3{
+            font-size: 40px;
+        }
+        .today h5 {font-size: 22px;}
+        .today{ left: 7%;}
+        .more h5 {font-size: 22px;}
+        .more{left: 57%;}
+        .fresh h5{font-size: 22px;}.fresh {
+            left: 57%;
+            top: 62%;
+            /* margin-top: 7px; */
+        }
+}
+@media (min-width: 992px) and (max-width: 1024px){
+    .burger img{
+        width: 94%;
+    }
+    .banner-content h5{font-size: 16px;}
+    .banner-content h1 {font-size: 82px;}
+    .banner-content h3{font-size: 40px;}
+    .today{left: 7%;}
+    .today h4{font-size:31px ;}
+    .more{font-size: 18px;}
+    .more{left: 57%;}
+    .fresh {
+    
+        left: 56%;
+        top: 61%;
+    }
+    .order p {font-size: 15px;}
+    .order h3{font-size: 28px;}
+    .custom-btn {
+        letter-spacing: 2px;
+        padding: 13px 16px;
+        font-size: 16px;
+    }
+    .enjoy h5 {
+        font-size: 20px;}
+        .enjoy p{font-size: 14px;}
+        .reservation_section{
+            min-height: 97vh;
+            margin-bottom: -8%;
+        }
+
+}
+@media (min-width: 768px) and (max-width: 991px){
+    .navbar-light .navbar-nav .nav-link{display: inline-block;}
+    .banner-content h5{font-size:12px;}
+    header {min-height: 70vh;}
+    .banner-content h1{font-size:73px ;}
+    .banner-content h3{font-size: 36px;}
+    .today {left: 7%;}
+    .today h5 {
+        font-size: 16px;
+    }
+    .today h4 {
+        font-size: 25px;
+    }
+    .burger-three img {
+        margin-left: 2px;
+    }
+    .burger-four img {
+    margin-top: 21px;
+    margin-left: 1px;
+    }
+    .more {
+        top: 17%;}
+        
+    .burger img {
+        width: 97%;
+    }
+    .more h5 {
+        font-size: 16px;
+    }
+    .more h4 {
+        font-size: 25px;
+    }
+    .fresh {
+        top: 61%;
+      
+    }
+    .fresh h5 {
+        font-size: 16px;
+    }
+    .fresh h4 {
+        font-size: 25px;
+    }
+    .enjoy h5 {
+        font-size: 18px;
+    }
+    .enjoy p {
+        font-size: 13px;
+    }
+    .order h3 {
+        font-size: 23px;
+    }
+    .order p {
+        font-size: 13px;
+    }
+    .custom-btn {
+        font-size: 11px;
+    }
+    .upcoming-text h5 {
+        font-size: 18px;
+        letter-spacing: 1px;
+        padding-top: 20px;
+        padding-left: 20px;
+    }
+    .upcoming-text h1 {
+        font-size: 30px;
+        padding-left: 21px;
+        padding-bottom: 0px;
+        padding-top: 17px;
+    }
+    .upcoming-text p {
+        font-size: 10px;
+    }
+    .owl-dots .owl-dot span {
+        height: 10px;
+        width: 10px;
+    }
+    .reservation_section {
+    
+        margin-bottom:-15% ;
+    }
+    .from input {
+        font-size:17px ;
+    }
+
+}
+@media (min-width: 576px) and (max-width: 767px){
+    .navbar-light .navbar-nav .nav-link{display: inline-block;}
+
+}
+@media (min-width: 321px) and (max-width: 575px){
+    .navbar-light .navbar-nav .nav-link{display: inline-block;}
+
+}
+@media (min-width: 321px) and (max-width: 375px){
+    .navbar-light .navbar-nav .nav-link{display: inline-block;}
+
+}
+@media (min-width: 0px) and (max-width: 320px){
+    .navbar-light .navbar-nav .nav-link{display: inline-block;}
+    .banner-content h5 {
+        font-size: 17px;
+        width: 100%;}
+        .burger {
+            display: none;
+        }
+        .banner-content h1 {
+            font-size: 57px;
+            padding-top: 37px;}
+            .banner-content h3 {
+                font-size: 35px;}
+                .today {
+                    left: 8%;
+                    top: 11%;}
+                    .burger-two img {
+                        margin-left: 5px;
+                    }
+                    .today h5 {
+                        font-size: 17px;}
+                        .today h4 {
+                            font-size: 23px;}
+                            .burger-three img {
+                                margin-top: 6%;
+                                margin-left: 6px;
+                            }
+                            .burger-three {
+                                width: 100%;
+                            }
+                            .more h5 {
+                                font-size: 17px;
+                            }
+                            .more h4 {
+                                font-size: 23px;
+                            }
+                            .more {
+                                top: 53%;
+                                left: 9%;
+                            }
+                            .burger-four img {
+                                margin-top: 15px;
+                                margin-left: 3px;}
+                                .fresh {
+                                    left: 7%;
+                                    top: 74%;}
+                                    .fresh h5{font-size: 17px;}
+                                    .fresh h4{font-size: 23px;}
+                                    .enjoy h5 {
+                                        font-size: 15px;
+                                        font-weight: bold;
+                                        padding: 13px 17px;}
+                                        .enjoy h1 {
+                                            font-size: 41px;}
+
+                                            .enjoy p{
+                                                font-size: 11px;
+                                                margin-bottom: 30px;
+                                            }
+                                            .burger-five img {
+                                                width: 60%;
+                                            }
+                                            .order h3 {
+                                                font-family: 'Bebas Neue', cursive;
+                                                color: #42200B;
+                                                font-weight: 500;
+                                                font-size: 20px;
+                                            }.order p {
+                                                font-family: 'Montserrat', sans-serif;
+                                                color: #42200B;
+                                                font-size: 12px;
+                                                margin-bottom: 27px;
+                                            }.custom-btn {
+                                                padding: 10px 15px;
+                                                letter-spacing: 1px;
+                                                font-size: 8px;
+                                        
+                                            }
+                                            .burger-six img {
+                                                width: 60%;
+                                                margin-top: 10%;
+                                            }
+                                            .burger-seven img {
+                                                width: 60%;
+                                                margin-top: 10%;
+                                            }
+                                            .box-shadow{
+                                                box-shadow: none;
+                                            }
+                                            .owl-dots .owl-dot span {
+                                                height: 10px;
+                                                width: 10px;
+                                            }
+                                            
+                                
+
+                            
+
+                    
+
+}
